@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-welcome to my GitHub!
+welcome to my GitHub! 😃
 
 <!--
 **wdmd2022/wdmd2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
