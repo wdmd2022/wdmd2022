@@ -32,6 +32,8 @@ I've had the good fortune to work with a lot of languages and frameworks:
 - JavaScript on the backend! NodeJS, Express
 - GraphQL and REST APIs
 - Dart
+
+
   ... and a lot more!
 
 👨‍🏫 And, I've also been able to experience the joy of teaching these concepts to others! I currently work as a Student Tutor for Atlas School. It's so much fun to help people understand the concepts that I learned just a few trimesters ahead of them. 'Peer Learning' is the backbone of Atlas School, and working as a Student Tutor has helped me double down on this more than anything else. I find I understand things so much more after explaining them in 8 different ways! 
